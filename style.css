@@ -29,7 +29,6 @@ h2 {
   color: #fff;
   margin: 0 0 20px 0;
 
-
 }
 h4 {
   font-size: 100px;
@@ -46,5 +45,19 @@ button {
   margin-bottom: 20px;
   border: none;
   border-radius:5px;
+}
 
+
+button:hover {
+  color: tomato
+}
+button:focus {
+  outline:0;
+}
+
+.red {
+  color:tomato
+}
+.green {
+  color: green;
 }
